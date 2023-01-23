@@ -6,7 +6,7 @@ PubSubChat implementation
 ### 2. Run "redis-cli"
 ### 3. Type "Publish <chatRoomName> <message>"  or "Subscribe <chatRoomName>" 
 ### 4. Run "java -jar <SNAPSHOT jar name>.jar 
-#### typ message that you want
+#### type message that you want
 
 ## How code works
 ### Main code are written in ChatService.java
